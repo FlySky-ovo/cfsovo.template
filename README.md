@@ -1,4 +1,6 @@
 # 模板
+
+[![wakatime](https://wakatime.com/badge/user/27a03f1f-e15f-4682-b0a6-4a271cef861d/project/7d3f7ac9-d82e-44e6-b60c-db8b82f323b7.svg?style=flat-square)](https://wakatime.com/badge/user/27a03f1f-e15f-4682-b0a6-4a271cef861d/project/7d3f7ac9-d82e-44e6-b60c-db8b82f323b7)
 ## 目錄
 * [目錄](#目錄)
 * [簡介](#簡介)
